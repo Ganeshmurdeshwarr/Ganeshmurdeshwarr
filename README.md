@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi 👋, I'm Ganesh Devadiga
 
-<!--
-**Ganeshmurdeshwarr/Ganeshmurdeshwarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Full-Stack Web Developer (MERN Stack)**  
+💻 Passionate about building real-world, scalable web applications  
+📚 Continuously learning and improving my development skills
+---
+## 👨‍🎓 Education
+- 🎓 **Bachelor’s Degree** in Computer Science / Related Field  
+- 📍 India
+---
+## 🛠️ Tech Stack
 
-Here are some ideas to get you started:
+### Frontend
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React.js
+- Redux Toolkit
+- Tailwind CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Backend
+- Node.js
+- Express.js
+- REST APIs
+- JWT Authentication
+
+### Database
+- MongoDB
+- Mongoose
+
+### Tools & Platforms
+- Git & GitHub
+- Postman
+- Vercel
+- Render
+- VS Code
+---
+## 🌱 Goals
+- Become a highly skilled Full-Stack Developer  
+- Build impactful products  
+- Grow professionally and financially 📈
+---
+## 🤝 Connect With Me
+- 💼 LinkedIn: *(add your LinkedIn URL)*
+- 📧 Email: *(add your email)*
+- 🌐 Portfolio: *(coming soon)*
+
+---
+
+⭐ *If you like my work, consider giving a star!*  
