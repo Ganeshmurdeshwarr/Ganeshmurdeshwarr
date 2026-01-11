@@ -44,8 +44,9 @@
 - Grow professionally and financially 📈
 ---
 ## 🤝 Connect With Me
-- 💼 LinkedIn: *(add your LinkedIn URL)*
-- 📧 Email: *(add your email)*
-- 🌐 Portfolio: *(coming soon)*
+- 💼 LinkedIn: https://www.linkedin.com/in/ganesh-devadiga-664273294/
+- 📧 Email: ganeshmurdeshwarr@gmail.com
+- 🌐 Portfolio: https://portfolio-ganesh-devadiga.vercel.app
+- Phone: 9743761013
 ---
 ⭐ *If you like my work, consider giving a star!*  
