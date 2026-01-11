@@ -5,7 +5,7 @@
 📚 Continuously learning and improving my development skills
 ---
 ## 👨‍🎓 Education
-- 🎓 **Bachelor’s Degree** in Computer Science / Related Field  
+- 🎓 **Bachelor’s Degree** in Computer Science
 - 📍 India
 ---
 ## 🛠️ Tech Stack
@@ -17,6 +17,7 @@
 - React.js
 - Redux Toolkit
 - Tailwind CSS
+- Material UI (MUI)
 
 ### Backend
 - Node.js
@@ -27,8 +28,10 @@
 ### Database
 - MongoDB
 - Mongoose
-
+- My SQL
+- 
 ### Tools & Platforms
+- PostMan
 - Git & GitHub
 - Postman
 - Vercel
@@ -44,7 +47,5 @@
 - 💼 LinkedIn: *(add your LinkedIn URL)*
 - 📧 Email: *(add your email)*
 - 🌐 Portfolio: *(coming soon)*
-
 ---
-
 ⭐ *If you like my work, consider giving a star!*  
