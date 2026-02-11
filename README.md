@@ -18,12 +18,14 @@
 - Redux Toolkit
 - Tailwind CSS
 - Material UI (MUI)
+- Framer Motion
 
 ### Backend
 - Node.js
 - Express.js
 - REST APIs
 - JWT Authentication
+- Socket.Io
 
 ### Database
 - MongoDB
