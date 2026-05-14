@@ -21,11 +21,12 @@
 - Framer Motion
 
 ### Backend
+- AI Intigration 
 - Node.js
 - Express.js
 - REST APIs
 - JWT Authentication
-- Socket.Io
+- Razorpay
 
 ### Database
 - MongoDB
