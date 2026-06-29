@@ -1,8 +1,7 @@
 # Hi 👋, I'm Ganesh Devadiga
 
-🚀 **Full-Stack Web Developer (MERN Stack)**  
-💻 Passionate about building real-world, scalable web applications  
-📚 Continuously learning and improving my development skills
+Full-Stack Developer specializing in MERN stack, TypeScript, and AI-powered web applications. Experienced in building secure REST APIs, responsive UIs, and integrating LLM technologies including LangChain, OpenAI, Gemini, and RAG pipelines. Comfortable with Docker, AWS, and CI/CD workflows.  
+ 
 ---
 ## 👨‍🎓 Education
 - 🎓 **Bachelor’s Degree** in Computer Science
@@ -13,39 +12,51 @@
 ### Frontend
 - HTML5
 - CSS3
+- Tailwind CSS
 - JavaScript (ES6+)
+- TypeScript
 - React.js
 - Redux Toolkit
-- Tailwind CSS
-- Material UI (MUI)
+- Tanstack Query
 - Framer Motion
 
 ### Backend
-- AI Intigration 
 - Node.js
 - Express.js
 - REST APIs
 - JWT Authentication
-- Razorpay
 
+### AL/LLM
+- AI Intigration 
+- LangChain.js
+- LangGraph
+- OpenAI API
+- Gemini API
+- RAG pipelines
+- Vector DB (Qdrant)
+- AI Agents
+- 
 ### Database
 - MongoDB
 - Mongoose
-- My SQL
-- 
+- Redis
+
+  ### Tools & Platforms
+- Docker
+- AWS (IAM, EC2, S3, ECR, ECS)
+- GitHub Actions (CI/CD)
+- Vercel
+- Render
+- Linux/bash
+  
 ### Tools & Platforms
 - PostMan
 - Git & GitHub
 - Postman
-- Vercel
-- Render
 - VS Code
----
-## 🌱 Goals
-- Become a highly skilled Full-Stack Developer  
-- Build impactful products  
-- Grow professionally and financially 📈
----
+- Devtools
+  
+
 ## 🤝 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/ganesh-devadiga-664273294/
 - 📧 Email: ganeshmurdeshwarr@gmail.com
