@@ -41,7 +41,7 @@ Full-Stack Developer specializing in MERN stack, TypeScript, and AI-powered web 
 - Mongoose
 - Redis
 
-  ### Tools & Platforms
+### DevOps
 - Docker
 - AWS (IAM, EC2, S3, ECR, ECS)
 - GitHub Actions (CI/CD)
